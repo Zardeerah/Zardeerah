@@ -1,13 +1,15 @@
 # Hola, soy Paola 👋
 
 Soy una **profesional multidisciplinaria** con experiencia en **Fonoaudiología, Técnico en Enfermería en Alta Complejidad, Logística** y **Desarrollo Front-End**.  
-Mi formación en fonoaudiología me ha brindado herramientas valiosas para potenciar la **comunicación interpersonal**, lo que me permite colaborar de manera efectiva en equipos diversos.  
 
+Mi formación en fonoaudiología me ha brindado herramientas valiosas para potenciar la **comunicación interpersonal**, lo que me permite colaborar de manera efectiva en equipos diversos.  
 He gestionado situaciones de **alta presión en UCI y UTI**, además de destacar en la **gestión de inventarios y datos en logística**, demostrando atención al detalle y capacidad de organización.  
 
-Actualmente estoy enfocada en el mundo **tecnológico**, desarrollándome como **Frontend Developer** y en **Ciberseguridad en la nube**, siempre comprometida con el **aprendizaje continuo** para aportar valor en cada proyecto. 🚀  
+Actualmente estoy enfocada en el mundo **tecnológico**, desarrollándome como **Frontend Developer**, y **aprendiendo React Native con Expo** y **Ciberseguridad en la nube**.  
+Estoy comprometida con el **aprendizaje continuo** y con aportar valor en cada proyecto en el que participo. 🚀  
 
 ---
+
 
 ## 🛠️ Skills
 
@@ -31,10 +33,11 @@ Actualmente estoy enfocada en el mundo **tecnológico**, desarrollándome como *
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)  
 ![Responsive Design](https://img.shields.io/badge/Responsive-000?style=for-the-badge&logo=google-chrome&logoColor=fff)  
 
-### Seguridad
+### Seguridad (aprendiendo)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E7D32?style=for-the-badge&logo=trustpilot&logoColor=fff)  
 
 ---
+ 💻 Mi portafolio: [portafolio-seven-ivory.vercel.app](https://portafolio-seven-ivory.vercel.app/)  
 
 ## 📫 Contacto
 - 📧 Email: *(tu correo aquí)*  
