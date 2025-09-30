@@ -40,8 +40,8 @@ Estoy comprometida con el **aprendizaje continuo** y con aportar valor en cada p
  💻 Mi portafolio: [portafolio-seven-ivory.vercel.app](https://portafolio-seven-ivory.vercel.app/)  
 
 ## 📫 Contacto
-- 📧 Email: *(tu correo aquí)*  
-- 💼 LinkedIn: *(tu perfil aquí)*  
+- 📧 Email: *paola.stuardo.viveros@gmail.com*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/paola-alejandra-stuardo-viveros/*  
 
 ---
 
